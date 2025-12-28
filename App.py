@@ -13,7 +13,7 @@ import torch
 
 app = FastAPI()
 
-# Load model on startup (uses your ROCm GPU)
+# Load model on startup (uses ROCm GPU)
 device = "cuda" if torch.cuda.is_available() else "cpu"
 print(f"Loading Whisper model on {device}...")
 print(f"GPU: {torch.cuda.get_device_name(0) if torch.cuda.is_available() else 'N/A'}")
