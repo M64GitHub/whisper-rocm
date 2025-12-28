@@ -1,6 +1,6 @@
 # whisper-rocm
 
-> Local speech-to-text with AMD ROCm GPU acceleration — an open-source alternative to Wispr Flow
+Local speech-to-text with AMD ROCm GPU acceleration - an open-source alternative to Wispr Flow
 
 A browser-based voice transcription app powered by OpenAI's Whisper model, optimized for AMD GPUs using ROCm. Built specifically for the new AMD Ryzen AI processors with Radeon 800M series integrated graphics.
 
