@@ -116,7 +116,7 @@ python -c "import torch; print(torch.cuda.is_available()); print(torch.cuda.get_
 
 ### Microphone permissions
 
-Make sure your browser has microphone access. The app requires HTTPS or localhost to access the microphone.
+Make sure your browser has microphone access.
 
 ## License
 
