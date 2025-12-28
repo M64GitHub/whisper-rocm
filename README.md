@@ -23,7 +23,7 @@ Since **AMD GPUs now have first-class support**: ROCm finally supports Strix Poi
 
 **Tested on:**
 - AMD Ryzen AI 9 HX 370 + Radeon 890M (Strix Point / gfx1150)
-- TUXEDO laptop running Linux
+- TUXEDO laptop running Ubuntu 24.04
 
 **Compatible with:**
 - AMD GPUs with ROCm support (gfx1150, gfx1100, etc.)
