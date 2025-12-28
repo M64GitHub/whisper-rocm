@@ -4,12 +4,11 @@
 
 A browser-based voice transcription app powered by OpenAI's Whisper model, optimized for AMD GPUs using ROCm. Built specifically for the new AMD Ryzen AI processors with Radeon 800M series integrated graphics.
 
-## Why This Exists
+<img width="3096" height="1345" alt="image" src="https://github.com/user-attachments/assets/72b5e4c5-9c86-49c6-b4c2-9624eef4bf4c" />
 
-- **Wispr Flow is Mac-only** — no official solution for Linux users
-- **AMD GPUs now have first-class support** — ROCm finally supports Strix Point (gfx1150)
-- **Fully local** — no cloud APIs, no subscriptions, your voice data stays on your machine
-- **Fast** — GPU-accelerated transcription with the medium Whisper model
+## About
+I built this app to have an alternative to **Wispr Flow** (Mac-only) on my new linux laptop with an AMD Ryzen AI 9 HX 370 w/ Radeon 890M.  
+Since **AMD GPUs now have first-class support**: ROCm finally supports Strix Point (gfx1150), I can run it **fully local**, no cloud APIs, no subscriptions, voice data stays on the machine. And it is pretty **fast** -  GPU-accelerated transcription with the medium Whisper model.
 
 ## Features
 
