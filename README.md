@@ -4,7 +4,7 @@ Local speech-to-text with AMD ROCm GPU acceleration - an open-source alternative
 
 A browser-based voice transcription app powered by OpenAI's Whisper model, optimized for AMD GPUs using ROCm. Built specifically for the new AMD Ryzen AI processors with Radeon 800M series integrated graphics.
 
-<img width="3096" height="1345" alt="image" src="https://github.com/user-attachments/assets/72b5e4c5-9c86-49c6-b4c2-9624eef4bf4c" />
+<img width="1246" height="1328" alt="image" src="https://github.com/user-attachments/assets/e53cdbf4-f774-4166-89b4-b6f9487f39be" />
 
 ## About
 I built this app to have an alternative to **Wispr Flow** (Mac-only) on my new linux laptop with an AMD Ryzen AI 9 HX 370 w/ Radeon 890M.  
