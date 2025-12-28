@@ -1,0 +1,12 @@
+# whisper-rocm dependencies
+#
+# IMPORTANT: Install PyTorch first from AMD ROCm repo (for Radeon 890M / gfx1150):
+#   pip install --index-url https://repo.amd.com/rocm/whl/gfx1150/ torch
+#
+# For other AMD GPUs, check: https://repo.amd.com/rocm/whl/
+# For NVIDIA GPUs or CPU, see: https://pytorch.org/get-started/locally/
+
+fastapi
+uvicorn[standard]
+python-multipart
+openai-whisper
