@@ -6,10 +6,6 @@ A browser-based voice transcription app powered by OpenAI's Whisper model, optim
 
 <img width="1246" height="1328" alt="image" src="https://github.com/user-attachments/assets/e53cdbf4-f774-4166-89b4-b6f9487f39be" />
 
-## About
-I built this app to have an alternative to **Wispr Flow** (Mac-only) on my new linux laptop with an AMD Ryzen AI 9 HX 370 w/ Radeon 890M.  
-Since **AMD GPUs now have first-class support**: ROCm finally supports Strix Point (gfx1150), I can run it **fully local**, no cloud APIs, no subscriptions, voice data stays on the machine. And it is pretty **fast** -  GPU-accelerated transcription with the medium Whisper model.
-
 ## Features
 
 - Real-time audio visualization with cyberpunk-themed UI
